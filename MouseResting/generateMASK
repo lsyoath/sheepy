@@ -1,0 +1,6 @@
+3dAutomask -prefix tempmaskforMoRst.nii -erode 0.5 anatmask_origin_rsmp+orig.
+3dresample -master /home/prot/MouseResting/YIkeSuo/Data/947/947_BOLD2_align2+orig. -prefix anat_brainmask_rsmpforMoRst.nii -inset tempmaskforMoRst.nii
+
+
+
+3dcalc -a HIPmask.nii -expr 'iszero(a-14)+iszero(a-55)+iszero(a-34)+iszero(a-61)' -prefix hip_ca1.nii

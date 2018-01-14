@@ -1,0 +1,78 @@
+    **** Brookhaven Instruments Corp.****
+ZetaPlus Particle Sizing Software Version 3.83
+Sample Identification:renxueqing (Combined)
+Operator Identification: LZL1
+Notes: 20170505
+Measurement Date: Jan 1, 2002
+Measurement Time: 01:31:52
+Batch: 0
+
+    **** Measurement Parameters ****
+Temperature = 25.0
+Suspension = Water
+Viscosity = 0.890 cp
+Ref.Index Fluid = 1.330
+Angle = 90.00
+Wavelength = 660.0 nm
+Runs Completed = 6
+Run Duration = 00:00:30
+Total Elapsed Time = 00:03:00
+Average Count Rate = 160.9 kcps
+Ref.Index Real = 1.590
+Ref.Index Imag = 0.000
+
+    **** Measurement Results ****
+renxueqing (Combined)
+Effective Diameter: 587.7
+Polydispersity: 0.005
+Baseline Index: 4.1
+Elapsed Time = 00:03:00
+
+ Run   Eff. Diam. (nm)   Half Width (nm)   Polydispersity   Baseline Index
+---------------------------------------------------------------------------
+  1         652.8             46.2              0.005             5.3
+  2         748.6             52.9              0.005             0.0
+  3         699.2             49.4              0.005             6.2
+  4         618.4             43.7              0.005             0.0
+  5         501.1            190.2              0.144             1.9
+  6         467.1            138.6              0.088             9.6
+---------------------------------------------------------------------------
+Mean        614.5             86.8              0.042             3.8
+Std.Error    45.2             25.4              0.024             1.6
+Combined    587.7             41.6              0.005             4.1
+
+    **** Lognormal Size Distribution Results ****
+GSD: 1.073
+   d(nm)  G(d) C(d) |   d(nm)  G(d) C(d) |   d(nm)  G(d) C(d)
+--------------------------------------------------------------
+   523.2   26    5  |   577.2   97   40  |   616.3   80   75
+   536.8   44   10  |   582.4   99   45  |   623.7   70   80
+   546.2   58   15  |   587.7  100   50  |   632.3   58   85
+   553.7   70   20  |   592.9   99   55  |   643.3   44   90
+   560.3   80   25  |   598.2   97   60  |   660.0   26   95
+   566.3   87   30  |   603.8   93   65  | 
+   571.9   93   35  |   609.8   87   70  | 
+
+    **** Lognormal Size Distribution Results/Spreadsheet Format  ****
+ 523.2, 26,  5
+ 536.8, 44, 10
+ 546.2, 58, 15
+ 553.7, 70, 20
+ 560.3, 80, 25
+ 566.3, 87, 30
+ 571.9, 93, 35
+ 577.2, 97, 40
+ 582.4, 99, 45
+ 587.7,100, 50
+ 592.9, 99, 55
+ 598.2, 97, 60
+ 603.8, 93, 65
+ 609.8, 87, 70
+ 616.3, 80, 75
+ 623.7, 70, 80
+ 632.3, 58, 85
+ 643.3, 44, 90
+ 660.0, 26, 95
+
+
+

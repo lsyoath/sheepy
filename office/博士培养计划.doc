@@ -1,0 +1,1310 @@
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+<head>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:"Times New Roman","serif";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{mso-style-link:"页眉 Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	layout-grid-mode:char;
+	border:none;
+	padding:0cm;
+	font-size:9.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-link:"页脚 Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	layout-grid-mode:char;
+	font-size:9.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"批注框文本 Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:9.0pt;
+	font-family:"Times New Roman","serif";}
+span.Char
+	{mso-style-name:"页眉 Char";
+	mso-style-link:页眉;}
+span.Char0
+	{mso-style-name:"页脚 Char";
+	mso-style-link:页脚;}
+span.Char1
+	{mso-style-name:"批注框文本 Char";
+	mso-style-link:批注框文本;}
+ /* Page Definitions */
+ @page Section1
+	{size:595.3pt 841.9pt;
+	margin:27pt 25pt 27pt 25pt;
+	layout-grid:15.6pt;}
+div.Section1
+	{page:Section1;}	
+-->
+</style>
+
+</head>
+
+<body lang=ZH-CN style='text-justify-trim:punctuation'>
+
+<div class=Section1 style='layout-grid:15.6pt'>
+<p class=MsoNormal align=center style='text-align:center'>
+  <span lang=EN-US>
+ <img src="http://gcourse.hit.edu.cn:80//upload/pyjhggsq/hrbgydx.jpg" />
+  </span></p>
+<p class=MsoNormal align=center style='text-align:center'><span
+style='font-size:22.0pt;font-family:黑体'>研 究 生 培 养 计 划</span></p>
+<p class=MsoNormal align=center style='text-align:center'><span
+style='font-size:15.0pt;font-family:黑体'>TRAINING PROGRAMS FOR POSTGRADUATE STUDENT</span></p>
+
+<p class=MsoNormal align=left style='text-align:left;text-indent:26.25pt'>
+<span style='font-size:10.5pt;font-family:宋体'>学号</span>
+<span style='font-size:10.5pt;font-family:Times New Roman'>/Student Number</span>
+<span style='font-size:10.5pt;font-family:宋体'>：</span>
+<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span lang=EN-US>18B928015</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>
+<span style='font-size:10.5pt;font-family:宋体'>姓名</span>
+<span style='font-size:10.5pt;font-family:Times New Roman'>/Name</span>
+<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span lang=EN-US>李斯玚</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></p>
+
+<p class=MsoNormal align=left style='text-align:left;text-indent:26.25pt'>
+<span style='font-size:10.5pt;font-family:宋体'>学科</span>
+<span style='font-size:10.5pt;font-family:Times New Roman'>/Major</span>
+<span style='font-size:10.5pt;font-family:宋体'>：</span>
+<u>&nbsp;&nbsp;
+<span lang=EN-US>[0777]生物医学工程</span>&nbsp;&nbsp;</u>
+<span style='font-size:10.5pt;font-family:宋体'>学位类型：</span>
+<u>&nbsp;&nbsp;
+<span lang=EN-US>学术型学位</span>
+&nbsp;&nbsp;</u></p>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=738
+ style='border-collapse:collapse;border:none'>
+<tr style='page-break-inside:avoid' height=50>
+  <td  valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'>
+  <span style='font-size:10.5pt;font-family:宋体'><b>课程类别</b></span></p></br>
+  <p class=MsoNormal align=center style='text-align:center'>
+  <span style='font-size:10.5pt;font-family:Times New Roman'>Type of Course</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'><b>课程编号</b></span></p></br>
+  <p class=MsoNormal align=center style='text-align:center'>
+  <span style='font-size:10.5pt;font-family:Times New Roman'>Course Number</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'><b>课  程  名  称</b></span></p></br>
+  <p class=MsoNormal align=center style='text-align:center'>
+  <span style='font-size:10.5pt;font-family:Times New Roman'>Course name</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'><b>课程英文名称</b></span></p></br>
+  <p class=MsoNormal align=center style='text-align:center'>
+  <span style='font-size:10.5pt;font-family:Times New Roman'>Course English name</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'><b>学时</b></span></p></br>
+  <p class=MsoNormal align=center style='text-align:center'>
+  <span style='font-size:10.5pt;font-family:Times New Roman'>Hours</span></p>
+  </td>
+  <td  valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'><b>学分</b></span></p></br>
+  <p class=MsoNormal align=center style='text-align:center'>
+  <span style='font-size:10.5pt;font-family:Times New Roman'>Credits</span></p>
+  </td>
+  <td  valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'><b>开课学期</b></span></p></br>
+  <p class=MsoNormal align=center style='text-align:center'>
+  <span style='font-size:10.5pt;font-family:Times New Roman'>Semester</span></p>
+  </td>
+  <td  valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'><b>开课单位</b></span></p></br>
+  <p class=MsoNormal align=center style='text-align:center'>
+  <span style='font-size:10.5pt;font-family:Times New Roman'>Department</span></p>
+  </td>
+ </tr>
+ 
+ <tr style='page-break-inside:avoid'height=25>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'>
+  <span style='font-size:10.5pt;font-family:宋体'>公共学位课</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>MX61001</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>中国特色社会主义理论与实践研究</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>待定</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>32</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>2</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>秋季</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>[26] 马克思主义学院</span></p>
+  </td>
+ </tr>
+ 
+ <tr style='page-break-inside:avoid'height=25>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'>
+  <span style='font-size:10.5pt;font-family:宋体'>公共学位课</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>MX71003</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>硕（本）博连读生政治讲座</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'> </span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>4</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>0</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>春季</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>[26] 马克思主义学院</span></p>
+  </td>
+ </tr>
+ 
+ <tr style='page-break-inside:avoid'height=25>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'>
+  <span style='font-size:10.5pt;font-family:宋体'>公共学位课</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>S0800000Q</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>思想政治理论课</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>Theory of Marxism</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'></span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>3</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'></span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>[26] 马克思主义学院</span></p>
+  </td>
+ </tr>
+ 
+ <tr style='page-break-inside:avoid'height=25>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'>
+  <span style='font-size:10.5pt;font-family:宋体'>公共学位课</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>FL72000</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>第一外国语（博士）</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>Foreign Language</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>32</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>2</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>秋季</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>[15] 外国语学院</span></p>
+  </td>
+ </tr>
+ 
+ <tr style='page-break-inside:avoid'height=25>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'>
+  <span style='font-size:10.5pt;font-family:宋体'>公共学位课</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>MX61002</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>自然辩证法概论</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>待定</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>16</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>1</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>秋季</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>[26] 马克思主义学院</span></p>
+  </td>
+ </tr>
+ 
+ <tr style='page-break-inside:avoid'height=25>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'>
+  <span style='font-size:10.5pt;font-family:宋体'>学科基础课</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>S0628024Q</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>生物医学图像处理</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>medical imaging</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'></span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>2</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'></span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>[0628] 生命科学与技术学院</span></p>
+  </td>
+ </tr>
+ 
+ <tr style='page-break-inside:avoid'height=25>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'>
+  <span style='font-size:10.5pt;font-family:宋体'>学科基础课</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>S0628032Q</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>生物医学仪器分析与应用Ⅰ</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>Analysis and Application of Biological InstrumentⅠ</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'></span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>1</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'></span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>[0628] 生命科学与技术学院</span></p>
+  </td>
+ </tr>
+ 
+ <tr style='page-break-inside:avoid'height=25>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'>
+  <span style='font-size:10.5pt;font-family:宋体'>学科基础课</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>S0628033C</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>生物学仪器分析与应用Ⅱ</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>Analysis and Application of Biological Instrument Ⅱ</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'></span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>1.5</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'></span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>[0628] 生命科学与技术学院</span></p>
+  </td>
+ </tr>
+ 
+ <tr style='page-break-inside:avoid'height=25>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'>
+  <span style='font-size:10.5pt;font-family:宋体'>学科基础课</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>S0628017Q</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>医学基础</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>Medical Basis</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'></span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>2</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'></span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>[0628] 生命科学与技术学院</span></p>
+  </td>
+ </tr>
+ 
+ <tr style='page-break-inside:avoid'height=25>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'>
+  <span style='font-size:10.5pt;font-family:宋体'>学科专业课</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>S1300011Q</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>模式识别</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>Pattern Recognition</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'></span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>3</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'></span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>[03] 计算机科学与技术学院</span></p>
+  </td>
+ </tr>
+ 
+ <tr style='page-break-inside:avoid'height=25>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'>
+  <span style='font-size:10.5pt;font-family:宋体'>学科专业课</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>S0628025Q</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>生物信号检测及传感器</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>Biosignal Detection and Biosensor</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'></span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>2</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'></span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>[0628] 生命科学与技术学院</span></p>
+  </td>
+ </tr>
+ 
+ <tr style='page-break-inside:avoid'height=25>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'>
+  <span style='font-size:10.5pt;font-family:宋体'>学科核心课</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>LS74002</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>结构分子生物学</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>Structural Molecular Biology</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>32</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>2</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>秋季</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>[0628] 生命科学与技术学院</span></p>
+  </td>
+ </tr>
+ 
+ <tr style='page-break-inside:avoid'height=25>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'>
+  <span style='font-size:10.5pt;font-family:宋体'>学科核心课</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>MA63002</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>数值分析B</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>Numerical Analysis B</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>44</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>2</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'></span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>[0612] 数学系</span></p>
+  </td>
+ </tr>
+ 
+ <tr style='page-break-inside:avoid'height=25>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'>
+  <span style='font-size:10.5pt;font-family:宋体'>学科核心课</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>LS74001</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>分子生物学进展</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>待定</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>32</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>2</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>秋季</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>[0628] 生命科学与技术学院</span></p>
+  </td>
+ </tr>
+ 
+ <tr style='page-break-inside:avoid'height=25>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'>
+  <span style='font-size:10.5pt;font-family:宋体'>选修课</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>LS64024</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>人体生理学</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>physiology</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>32</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>2</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>秋季</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>[0628] 生命科学与技术学院</span></p>
+  </td>
+ </tr>
+ 
+ <tr style='page-break-inside:avoid'height=25>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'>
+  <span style='font-size:10.5pt;font-family:宋体'>选修课</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>S1300021C</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>人工神经网络原理</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>Principles and Application of Artificial Neural Networks</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>32</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>2</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'></span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>[03] 计算机科学与技术学院</span></p>
+  </td>
+ </tr>
+ 
+ <tr style='page-break-inside:avoid'height=25>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'>
+  <span style='font-size:10.5pt;font-family:宋体'>选修课</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>S1300016C</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>计算机视觉</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>Computer Vision</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>24</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>1.5</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'></span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>[03] 计算机科学与技术学院</span></p>
+  </td>
+ </tr>
+ 
+ <tr style='page-break-inside:avoid'height=25>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'>
+  <span style='font-size:10.5pt;font-family:宋体'>选修课</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>S1300028Q</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>计算生物学</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>Computational Biology</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'></span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>2</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'></span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>[03] 计算机科学与技术学院</span></p>
+  </td>
+ </tr>
+ 
+ <tr style='page-break-inside:avoid'height=25>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'>
+  <span style='font-size:10.5pt;font-family:宋体'>选修课</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>FL72001</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>博士学术英语</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>Academic English for PhD Students (Scientific Paper Writing)</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>64</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>2</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'></span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>[15] 外国语学院</span></p>
+  </td>
+ </tr>
+ 
+ <tr style='page-break-inside:avoid'height=25>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'>
+  <span style='font-size:10.5pt;font-family:宋体'>选修课</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>S1300063C</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>脑认知与脑机接口原理</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>Brain Cognition and Brain-Computer Interaction</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>24</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>1.5</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'></span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>[03] 计算机科学与技术学院</span></p>
+  </td>
+ </tr>
+ 
+ <tr style='page-break-inside:avoid'height=25>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'>
+  <span style='font-size:10.5pt;font-family:宋体'>专题课程</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>S0628008C</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>生物医学工程研究进展专题</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>Progress in Biomedical Engineering</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'></span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>3</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'></span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>[0628] 生命科学与技术学院</span></p>
+  </td>
+ </tr>
+ 
+ <tr style='page-break-inside:avoid'height=25>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'>
+  <span style='font-size:10.5pt;font-family:宋体'>必修环节</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>LS79003</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>学位论文中期</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>In-process Inspection</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'></span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>1</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>春季</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>[0628] 生命科学与技术学院</span></p>
+  </td>
+ </tr>
+ 
+ <tr style='page-break-inside:avoid'height=25>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'>
+  <span style='font-size:10.5pt;font-family:宋体'>必修环节</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>LS79002</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>学位论文开题</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>Dissertation Proposals</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'></span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>1</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>春季</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>[0628] 生命科学与技术学院</span></p>
+  </td>
+ </tr>
+ 
+ <tr style='page-break-inside:avoid'height=25>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'>
+  <span style='font-size:10.5pt;font-family:宋体'>必修环节</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>LS79001</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>综合考评</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>Comprehensive Assessment</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'></span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>1</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>秋季</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>[0628] 生命科学与技术学院</span></p>
+  </td>
+ </tr>
+ 
+ <tr style='page-break-inside:avoid'height=25>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'>
+  <span style='font-size:10.5pt;font-family:宋体'>必修环节</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>LS78002</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>社会实践</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>Social Practice</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'></span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>1</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>秋季</span></p>
+  </td>
+  <td valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>[0628] 生命科学与技术学院</span></p>
+  </td>
+ </tr>
+ 
+ <tr style='page-break-inside:avoid'height=25>
+  <td colspan=2 valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p  class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'><b>总学分</b></span></p>
+  </td>
+  <td colspan=6 valign=top style='border:solid windowtext 1.0pt;vertical-align:middle;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.5pt;font-family:宋体'>43.5</span></p>
+  </td>
+ </tr>
+ 
+ <tr height=0>
+  <td width=82 style='border:none'></td>
+  <td width=82 style='border:none'></td>
+  <td width=164 style='border:none'></td>
+  <td width=164 style='border:none'></td>  
+  <td width=41 style='border:none'></td>
+  <td width=41 style='border:none'></td>
+  <td width=82 style='border:none'></td>
+  <td width=82 style='border:none'></td>
+ </tr>
+</table>
+<p class=MsoNormal align=left style='text-align:left;text-indent:26.25pt'>
+<b><span style='font-size:10.5pt;font-family:黑体'>注：</span>
+<span style='font-size:9pt;font-family:宋体'>培养计划由指导教师和学生根据本学科培养方案共同制定。本计划一式两份，院（系）和研究生各留存一份。</span></b></p><br>
+
+<p class=MsoNormal align=left style='text-align:left;text-indent:26.25pt'>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b><span style='font-size:10.5pt;font-family:宋体'>学生签名：</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span style='font-size:10.5pt;font-family:宋体'>导师签名：</span>
+</b></p><br>
+
+<p class=MsoNormal align=left style='text-align:left;text-indent:26.25pt'>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b><span style='font-size:10.5pt;font-family:宋体'>学科负责人：</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span style='font-size:10.5pt;font-family:宋体'>院（系）负责人：</span>
+</b></p><br>
+
+<p class=MsoNormal align=right style='text-align:left;text-indent:26.25pt'>
+<b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span style='font-size:10.5pt;font-family:宋体'>年</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span style='font-size:10.5pt;font-family:宋体'>月</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span style='font-size:10.5pt;font-family:宋体'>日</span></b></p>
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+
+</div>
+
+</body>
+
+</html>
